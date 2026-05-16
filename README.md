@@ -4,22 +4,21 @@ This project explores neural machine translation using Hugging Face transformer 
 
 The chatbot translates English text into French using the Helsinki-NLP MarianMT model and displays responses with a typing animation for a more interactive experience.
 
-## Features
+## What it does
 
 * English to French translation
 * Hugging Face transformer integration
 * Interactive chatbot loop
 * Typing animation effect
-* Real-time text translation
 
-## Technologies Used
+## Used
 
 * Python
 * Hugging Face Transformers
 * MarianMT Model
 * SentencePiece
 
-## Prerequisites
+## Needed
 
 Before running the chatbot:
 
@@ -32,11 +31,6 @@ The translation model used:
 ```python
 Helsinki-NLP/opus-mt-en-fr
 ```
-
-## Files
-
-* `english-french-translation-chatbot.ipynb`: main notebook
-* `requirements.txt`: required libraries
 
 ## Sample Translation
 
